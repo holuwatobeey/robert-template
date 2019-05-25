@@ -1,1 +1,1 @@
-ErrorDocument 404 localhost/robert-template.com/404.html
+ErrorDocument 404 https://robert-template.herokuapp.com/404.html
